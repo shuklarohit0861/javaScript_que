@@ -1,11 +1,13 @@
 To put it in simple terms:
 
-Throttling will delay executing a function. It will reduce the notifications of an event that fires multiple times.
-Debouncing will bunch a series of sequential calls to a function into a single call to that function. It ensures that one notification is made for an event that fires multiple times.
-
 As both functions help you postpone and reduce the rate of some execution. Assuming you are calling decorated functions returned by throttle/debounce repeatedly...
 
+Throttling will delay executing a function. It will reduce the notifications of an event that fires multiple times.
+
+Debouncing will bunch a series of sequential calls to a function into a single call to that function. It ensures that one notification is made for an event that fires multiple times.
+
 Throttle: the original function will be called at most once per specified period.
+
 Debounce: the original function will be called after the caller stops calling the decorated function after a specified period.
 
 var helpers = {
