@@ -31,3 +31,4 @@ Component development
 
 Typescript.
 
+[dev tool frontend que](https://devtools.tech/questions/all?ref=dt-yt)
