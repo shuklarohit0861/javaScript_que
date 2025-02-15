@@ -32,3 +32,14 @@
 * Typescript.
 
 [dev tool frontend que](https://devtools.tech/questions/all?ref=dt-yt)
+
+1. Introduction
+ 2. Handling a difficult situation 
+3. What is refactoring ? 
+4. Ways to ensure software quality 
+5. Learning new skills approach 
+6. Explain to a lay man about a concept 
+7. Dealing with blockers 
+8. Dealing with dependencies 
+9. Dealing with priorities of task 
+10. Dealing with delay
